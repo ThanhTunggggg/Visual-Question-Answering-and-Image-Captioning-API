@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Steps
 
-1. __Run api
+1. Run api
 ```
 python pythia_api.py
 ```
