@@ -1,4 +1,4 @@
-# VQA API
+# VQA&IC API
 Visual Question Answering and Image Captioning API base on [pythia](https://github.com/facebookresearch/pythia).
 
 
